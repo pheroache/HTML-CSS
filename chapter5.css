@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header .heading {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.nav-list {
+  list-style: none;
+  text-align: center;
+}
+
+.nav-list-item {
+  display: inline-block;
+  margin: 15px 20px;
+}
+
+.main {
+  width: 100%;
+  padding: 50px 0;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.one {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+
+.two {
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+
+.four {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+
+.spacer {
+  width: 100%;
+}
+
+.five {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+
+.six {
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+
+.seven {
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+
+.eight {
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+
+.nine {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+
+.ten {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+
+.eleven {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+
+.twelve {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
+
+footer {
+  height:120px;
+  line-height: 120px;
+  text-align: center;
+  background-color: #848282;
+}
+
+.end {
+  font-size:16px;
+  color: #fff;
+}
